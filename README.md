@@ -1,9 +1,7 @@
-# Numerical Methods
+# Numerical Methods 
 
 Numerical methods implementation in MATLAB.
-
-For the implementation in Python, see [this repository](https://github.com/cfgnunes/numerical-methods-python).
-
+Dedicated to my students at apex College Grit/Garnet
 ## Getting Started
 
 ### Running the examples
