@@ -12,6 +12,8 @@ function [root, iter, converged] = bisection(f, a, b, tol, iter_max)
     %     root: root value.
     %     iter: used iterations.
     %     converged: found the root.
+    %   example: bisection(@(x) x^3 - 2*x - 5, 2, 3, 0.0008, 90)
+
 
     fa = f(a);
     fb = f(b);
